@@ -5,7 +5,7 @@ pragma solidity ^0.8.7;
     You choose 2  numbers and taking them Hash.
     This Hash is your ticket like ID. 
     Copy your Hash on Buy Ticket function and you should send 1 Ether for the join casino.
-
+    writer of @lestonz
  */
 
 contract Casino {
